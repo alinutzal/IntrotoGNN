@@ -1,1 +1,1 @@
-# IntrotoGNN
+# Tutorial Introduction to GNN
