@@ -1,4 +1,4 @@
-# Tutorial Introduction to GNN
+# Tutorial Introduction to GNN @MDS22
 <ol>
 <li>After creating a NERSC account login to http://jupyter.nersc.gov</li>
 <li>Select "Exclusive GPU Node" on Perlmutter</li>
